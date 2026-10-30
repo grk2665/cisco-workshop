@@ -1,2 +1,2 @@
 Environment: production
-Timeout: 30
+Timeout: 10
